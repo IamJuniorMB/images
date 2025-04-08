@@ -1,1 +1,1 @@
-Internetinių puslapių kūrimas su AI
+Internetinių puslapių kūrimas su AI - nuotraukos
