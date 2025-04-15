@@ -1,0 +1,19 @@
+20min - 12:01
+
+nuo bendros sumos -30% iki 20k - mokestis 5% - 18e
+
+sodra is sumos -30% ir dar -10%
+6.98% - 23e
+12.52% - 41e
+
+viso 82e - palikt 100e
+
+23e + 29e + 52e = 104e
+
+    // next: (answer: CourseSlug) => (answer === CourseSlug.FrontEndAcs ? 3 : null),
+
+
+testme@iamjunior.lt
+X@604523752222os
+
+Testuotojas12345
